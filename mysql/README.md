@@ -62,12 +62,3 @@ https://www.kaggle.com/datasets/anandhuh/covid19-india-statewise-vaccine-data
 | `population` | Population of the State/UT |
 
 ---
-
-# 🏗️ Database Setup
-
-## 1. Create Database
-
-```sql
-CREATE DATABASE covid_vaccination;
-
-USE covid_vaccination;
