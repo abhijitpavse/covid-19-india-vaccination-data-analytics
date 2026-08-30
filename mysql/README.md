@@ -62,4 +62,3 @@ https://www.kaggle.com/datasets/anandhuh/covid19-india-statewise-vaccine-data
 | `population` | Population of the State/UT |
 
 ---
-
